@@ -12,7 +12,7 @@ python3 -m pip install requests
 
 git clone https://github.com/SACHINSIROHI47/WhatsApp-SMS-Spoof.git
 
-cd SpamWa
+cd WhatsApp-SMS-Spoof
 
 python3 spam.py
 
